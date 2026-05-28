@@ -1,0 +1,17 @@
+.counter-widget {
+    -fx-background-color: -dt-card-bg;
+    -fx-border-color: -dt-border-color;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-padding: 15px;
+    -fx-alignment: center;
+}
+
+.counter-menu {
+    -fx-background-color: -dt-bg-color;
+    -fx-padding: 20px;
+}
+
+.counter-text {
+    -fx-text-fill: -dt-text-color;
+}
